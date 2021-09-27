@@ -1,0 +1,20 @@
+body {
+    background-color: blanchedalmond;
+}
+#elementodelista{
+    color: rgb(15, 10, 2);
+    font-size: 1.8rem;
+}
+
+.element{
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
+
+li{
+    background-color: cornflowerblue;
+}
+
